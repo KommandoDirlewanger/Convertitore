@@ -1,0 +1,13 @@
+package convertitoreBis;
+
+public class Convertitore {
+
+	int numero=11;
+	
+	while(numero!=0) {
+		
+		
+		
+	}
+	
+}
